@@ -7,4 +7,5 @@ nav{
     color: rgb(130, 13, 36);
     text-decoration: none;
     display: inline;
+    border-bottom: rgb(130, 13, 36),25px;
 }
