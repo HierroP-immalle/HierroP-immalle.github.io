@@ -1,6 +1,7 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(130, 13, 36);
+    font-family: Arial;
+    color: #990011;
+  font-size: 10;
 }
 
 header{
@@ -18,7 +19,7 @@ nav{
     margin-right: auto;
     padding: 10px;
     border-width: 3px;
-    border-color: rgb(130, 13, 36);
+    border-color: #990011;
     box-sizing: border-box;
     border-bottom: solid;
 }
@@ -33,13 +34,13 @@ nav ul li{
 
 nav ul li:hover{
 
-    border-bottom:solid rgb(130, 13, 36);
+    border-bottom:solid #990011;
 }
 
 
 nav ul li a{
     text-decoration: none;
-    color: rgb(130, 13, 36);
+    color: #990011;
     font-size: larger;
 }
 
@@ -73,7 +74,7 @@ section{
     box-sizing: border-box;
     height: 175px;
     border-radius: 10px;
-    border: 2px solid rgb(130, 13, 36);
+    border: 2px solid #990011;
     overflow:hidden;
   }
 
@@ -91,12 +92,12 @@ section{
 
   .contacttitle{
     text-align: center;
-    font-size: xxx-large;
+    font-size: xx-large;
   }
 
   a {
     text-decoration: none;
-    color: rgb(130, 13, 36);
+    color: #990011;
   }
 
   .box:hover {
@@ -109,10 +110,16 @@ section{
     background-position: center;
   }
 
+  .Dag2img{
+    background-image: url(afbeeldingen/Dag2foto.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
   .boxtitle{
     background-color: #f0f0f0;
     border-radius: 10px;
-    border: 2px solid rgb(130, 13, 36);
+    border: 2px solid #990011;
     text-align: center;
     width: 90px;
     margin-left: auto;
@@ -124,7 +131,7 @@ section{
   .boxp{
     background-color: #f0f0f0;
     border-radius: 10px;
-    border: 2px solid rgb(130, 13, 36);
+    border: 2px solid #990011;
     margin-top: 40%;;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -133,7 +140,7 @@ section{
   }
 
   .kaartzoersel{
-    border: 3px solid rgb(130, 13, 36);
+    border: 3px solid #990011;
     margin-right: 100%;
     overflow: hidden;
     width: 450px;
@@ -149,8 +156,24 @@ section{
     right: auto;
     top: 350px;
     left: 270px;
+    font-size: 10;
   }
 
   .contacttekststijl{
-    font-size: large;
+    font-size:medium;
+  }
+
+  p{
+    font-family: Arial;
+    font-size: 10;
+  }
+
+  .dagverslagtitels{
+    text-align: center;
+    font-size: 180%;
+  }
+
+  .dagverslagtussentitels{
+    text-align: left;
+    font-size: 140%;
   }
