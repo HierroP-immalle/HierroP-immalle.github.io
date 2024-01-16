@@ -89,6 +89,11 @@ section{
     font-size: xx-large;
   }
 
+  .contacttitle{
+    text-align: center;
+    font-size: xxx-large;
+  }
+
   a {
     text-decoration: none;
     color: rgb(130, 13, 36);
@@ -125,4 +130,27 @@ section{
     padding-bottom: 3px;
     padding-left: 2px;
     width: 230px;
+  }
+
+  .kaartzoersel{
+    border: 3px solid rgb(130, 13, 36);
+    margin-right: 100%;
+    overflow: hidden;
+    width: 450px;
+    height: 400px;
+    border-radius: 15px;
+  }
+
+  .contacttekst{
+    text-align: left;
+    width: 50%;
+    padding-left: 400px;
+    position:absolute;
+    right: auto;
+    top: 350px;
+    left: 270px;
+  }
+
+  .contacttekststijl{
+    font-size: large;
   }
