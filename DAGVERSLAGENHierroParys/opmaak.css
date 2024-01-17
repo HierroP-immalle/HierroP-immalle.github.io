@@ -116,6 +116,18 @@ section{
     background-position: center;
   }
 
+  .Dag3img{
+    background-image: url(afbeeldingen/Dag3fotoKapel2.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .Contactimg{
+    background-image: url(afbeeldingen/Contactimg.png);
+    background-size: cover;
+    background-position: center;
+  }
+
   .boxtitle{
     background-color: #f0f0f0;
     border-radius: 10px;
