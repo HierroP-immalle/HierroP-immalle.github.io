@@ -204,6 +204,10 @@ section{
     width: 98.71%;
   }
 
+  .logoZoersel:hover{
+    transform: scale(1.1);
+  }
+
   .cat{
     position: absolute;
     right: 0%;
@@ -215,8 +219,4 @@ section{
 
   .cat:hover{
     opacity: 100% ;
-  }
-
-  .logoZoersel:hover{
-    transform: scale(1.1);
   }
