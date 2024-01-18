@@ -122,6 +122,12 @@ section{
     background-position: center;
   }
 
+  .Dag4img{
+    background-image: url(afbeeldingen/dag4foto.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
   .Contactimg{
     background-image: url(afbeeldingen/Contactimg.png);
     background-size: cover;
