@@ -128,6 +128,12 @@ section{
     background-position: center;
   }
 
+  .Dag5img{
+    background-image: url(afbeeldingen/dag5foto.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
   .Contactimg{
     background-image: url(afbeeldingen/Contactimg.png);
     background-size: cover;
